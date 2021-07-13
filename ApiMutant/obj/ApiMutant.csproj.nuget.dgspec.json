@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santi\\Desktop\\examen onexa\\ApiMutant\\ApiMutant.csproj": {}
+    "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\ApiMutant\\ApiMutant.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santi\\Desktop\\examen onexa\\ApiMutant\\ApiMutant.csproj": {
+    "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\ApiMutant\\ApiMutant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santi\\Desktop\\examen onexa\\ApiMutant\\ApiMutant.csproj",
+        "projectUniqueName": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\ApiMutant\\ApiMutant.csproj",
         "projectName": "ApiMutant",
-        "projectPath": "C:\\Users\\santi\\Desktop\\examen onexa\\ApiMutant\\ApiMutant.csproj",
+        "projectPath": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\ApiMutant\\ApiMutant.csproj",
         "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santi\\Desktop\\examen onexa\\ApiMutant\\obj\\",
+        "outputPath": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\ApiMutant\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -33,11 +33,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\santi\\Desktop\\examen onexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj": {
-                "projectPath": "C:\\Users\\santi\\Desktop\\examen onexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj"
+              "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj": {
+                "projectPath": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj"
               },
-              "C:\\Users\\santi\\Desktop\\examen onexa\\FormsMutantes\\FormsMutantes.csproj": {
-                "projectPath": "C:\\Users\\santi\\Desktop\\examen onexa\\FormsMutantes\\FormsMutantes.csproj"
+              "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\FormsMutantes\\FormsMutantes.csproj": {
+                "projectPath": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\FormsMutantes\\FormsMutantes.csproj"
               }
             }
           }
@@ -73,26 +73,26 @@
         }
       }
     },
-    "C:\\Users\\santi\\Desktop\\examen onexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj": {
+    "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\santi\\Desktop\\examen onexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj",
+        "projectUniqueName": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj",
         "projectName": "BibliotecaMutantes",
-        "projectPath": "C:\\Users\\santi\\Desktop\\examen onexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj"
+        "projectPath": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\santi\\Desktop\\examen onexa\\FormsMutantes\\FormsMutantes.csproj": {
+    "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\FormsMutantes\\FormsMutantes.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\santi\\Desktop\\examen onexa\\FormsMutantes\\FormsMutantes.csproj",
+        "projectUniqueName": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\FormsMutantes\\FormsMutantes.csproj",
         "projectName": "FormsMutantes",
-        "projectPath": "C:\\Users\\santi\\Desktop\\examen onexa\\FormsMutantes\\FormsMutantes.csproj",
+        "projectPath": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\FormsMutantes\\FormsMutantes.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\santi\\Desktop\\examen onexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj": {
-                "projectPath": "C:\\Users\\santi\\Desktop\\examen onexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj"
+              "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj": {
+                "projectPath": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj"
               }
             }
           }

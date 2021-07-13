@@ -45,7 +45,7 @@ namespace FormsMutantes
             this.ADN.TabIndex = 0;
             this.ADN.Text = "Ver Adn";
             this.ADN.UseVisualStyleBackColor = false;
-            this.ADN.Click += new System.EventHandler(this.button1_Click);
+            this.ADN.Click += new System.EventHandler(this.VerAdn_Click);
             // 
             // MostrarLetras
             // 
@@ -55,7 +55,7 @@ namespace FormsMutantes
             this.MostrarLetras.Size = new System.Drawing.Size(363, 31);
             this.MostrarLetras.TabIndex = 1;
             this.MostrarLetras.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.MostrarLetras.TextChanged += new System.EventHandler(this.MostrarLetras_TextChanged);
+           
             // 
             // Home
             // 

@@ -40,7 +40,7 @@ namespace FormsMutantes
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void VerAdn_Click(object sender, EventArgs e)
         {
             var isMutantD = false;
             var isMutantV = false;
@@ -49,17 +49,17 @@ namespace FormsMutantes
             string wordsForTextBox = "";
 
             string[] dnaa = new string[] { "ATGCGA", "CAGTGC", "TTATGT", "AGAAGG", "CCCCTA", "TCACTG" };
-            
-            Shuffle(dnaa);
-            //Adn adn = new Adn();
 
-            isMutantD =adn.buscarDiagonal(dnaa);//para diagonal
-            isMutantV = adn.buscarVertical(dnaa);
-            isMutantH = adn.buscarHorizontal(dnaa);
+            Shuffle(dnaa);
+           
+
+          isMutantD =adn.buscarDiagonal(dnaa);
+          isMutantV = adn.buscarVertical(dnaa);
+          isMutantH = adn.buscarHorizontal(dnaa);
            
 
            for (int i = 0; i < dnaa.Length; i++)
-           // for (int i = 0; i < dnaa.Count; i++)
+           
             {
                 wordsForTextBox = wordsForTextBox + ", " + dnaa[i];
                 
@@ -80,9 +80,5 @@ namespace FormsMutantes
 
 
 
-        private void MostrarLetras_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

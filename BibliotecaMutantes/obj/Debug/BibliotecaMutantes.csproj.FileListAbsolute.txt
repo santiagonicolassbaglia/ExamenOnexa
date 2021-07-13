@@ -4,3 +4,9 @@ C:\Users\santi\Desktop\examen onexa\BibliotecaMutantes\obj\Debug\BibliotecaMutan
 C:\Users\santi\Desktop\examen onexa\BibliotecaMutantes\obj\Debug\BibliotecaMutantes.dll
 C:\Users\santi\Desktop\examen onexa\BibliotecaMutantes\obj\Debug\BibliotecaMutantes.pdb
 C:\Users\santi\Desktop\examen onexa\BibliotecaMutantes\obj\Debug\BibliotecaMutantes.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Examen_Onexa\ExamenOnexa\BibliotecaMutantes\bin\Debug\BibliotecaMutantes.dll
+C:\Users\santi\Desktop\Examen_Onexa\ExamenOnexa\BibliotecaMutantes\bin\Debug\BibliotecaMutantes.pdb
+C:\Users\santi\Desktop\Examen_Onexa\ExamenOnexa\BibliotecaMutantes\obj\Debug\BibliotecaMutantes.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Examen_Onexa\ExamenOnexa\BibliotecaMutantes\obj\Debug\BibliotecaMutantes.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Examen_Onexa\ExamenOnexa\BibliotecaMutantes\obj\Debug\BibliotecaMutantes.dll
+C:\Users\santi\Desktop\Examen_Onexa\ExamenOnexa\BibliotecaMutantes\obj\Debug\BibliotecaMutantes.pdb

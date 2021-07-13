@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santi\\Desktop\\examen onexa\\ApiMutant\\ApiMutant.csproj",
+      "projectUniqueName": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\ApiMutant\\ApiMutant.csproj",
       "projectName": "ApiMutant",
-      "projectPath": "C:\\Users\\santi\\Desktop\\examen onexa\\ApiMutant\\ApiMutant.csproj",
+      "projectPath": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\ApiMutant\\ApiMutant.csproj",
       "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santi\\Desktop\\examen onexa\\ApiMutant\\obj\\",
+      "outputPath": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\ApiMutant\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -76,11 +76,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\santi\\Desktop\\examen onexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj": {
-              "projectPath": "C:\\Users\\santi\\Desktop\\examen onexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj"
+            "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj": {
+              "projectPath": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj"
             },
-            "C:\\Users\\santi\\Desktop\\examen onexa\\FormsMutantes\\FormsMutantes.csproj": {
-              "projectPath": "C:\\Users\\santi\\Desktop\\examen onexa\\FormsMutantes\\FormsMutantes.csproj"
+            "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\FormsMutantes\\FormsMutantes.csproj": {
+              "projectPath": "C:\\Users\\santi\\Desktop\\Examen_Onexa\\ExamenOnexa\\FormsMutantes\\FormsMutantes.csproj"
             }
           }
         }

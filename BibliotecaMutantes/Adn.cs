@@ -11,8 +11,6 @@ namespace BibliotecaMutantes
        public string[] dna = { "ATGCGA", "CAGTGC", "TTATGT", "AGAAGG", "CCCCTA", "TCACTG" };
 
 
-
-
         public string[] Dna
         {
             get
@@ -31,10 +29,6 @@ namespace BibliotecaMutantes
         {
 
         }
-
-      
-
-        
 
         public bool buscarDiagonal(string[] dna)
         {
@@ -73,9 +67,8 @@ namespace BibliotecaMutantes
             string word = "";
 
             for (int i = 0; i < dna.Length; i++)
-            { //recorro palabras
-
-                for (int j = 0; j < dna.Length; j++)//recorro letras 
+            {  
+                for (int j = 0; j < dna.Length; j++)
                 {
                     word += dna[j].Substring(i, 1);
                 }
@@ -105,12 +98,6 @@ namespace BibliotecaMutantes
 
             return isMutant;
         }
-
-
-
-
-
-
 
 
 
