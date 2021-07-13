@@ -1,0 +1,6 @@
+C:\Users\santi\Desktop\examen onexa\biblioteca\bin\Debug\biblioteca.dll
+C:\Users\santi\Desktop\examen onexa\biblioteca\bin\Debug\biblioteca.pdb
+C:\Users\santi\Desktop\examen onexa\biblioteca\obj\Debug\Biblioteca_mutantes.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\examen onexa\biblioteca\obj\Debug\Biblioteca_mutantes.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\examen onexa\biblioteca\obj\Debug\biblioteca.dll
+C:\Users\santi\Desktop\examen onexa\biblioteca\obj\Debug\biblioteca.pdb

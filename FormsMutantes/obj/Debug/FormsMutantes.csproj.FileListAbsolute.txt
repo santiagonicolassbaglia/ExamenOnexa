@@ -1,0 +1,13 @@
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\obj\Debug\FormsMutantes.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\obj\Debug\FormsMutantes.Home.resources
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\obj\Debug\FormsMutantes.Properties.Resources.resources
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\obj\Debug\FormsMutantes.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\obj\Debug\FormsMutantes.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\bin\Debug\FormsMutantes.exe.config
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\bin\Debug\FormsMutantes.exe
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\bin\Debug\FormsMutantes.pdb
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\bin\Debug\BibliotecaMutantes.dll
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\bin\Debug\BibliotecaMutantes.pdb
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\obj\Debug\FormsMutantes.csproj.CopyComplete
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\obj\Debug\FormsMutantes.exe
+C:\Users\santi\Desktop\examen onexa\FormsMutantes\obj\Debug\FormsMutantes.pdb

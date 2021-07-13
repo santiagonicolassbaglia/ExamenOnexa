@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BibliotecaMutantes/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/BibliotecaMutantes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BibliotecaMutantes.dll": {}
+        }
+      },
+      "FormsMutantes/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BibliotecaMutantes": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FormsMutantes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FormsMutantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaMutantes/1.0.0": {
+      "type": "project",
+      "path": "../BibliotecaMutantes/BibliotecaMutantes.csproj",
+      "msbuildProject": "../BibliotecaMutantes/BibliotecaMutantes.csproj"
+    },
+    "FormsMutantes/1.0.0": {
+      "type": "project",
+      "path": "../FormsMutantes/FormsMutantes.csproj",
+      "msbuildProject": "../FormsMutantes/FormsMutantes.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "BibliotecaMutantes >= 1.0.0",
+      "FormsMutantes >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\santi\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\santi\\Desktop\\examen onexa\\ApiMutant\\ApiMutant.csproj",
+      "projectName": "ApiMutant",
+      "projectPath": "C:\\Users\\santi\\Desktop\\examen onexa\\ApiMutant\\ApiMutant.csproj",
+      "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\santi\\Desktop\\examen onexa\\ApiMutant\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packagesdesa.trabajo.gob.ar/nuget": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\santi\\Desktop\\examen onexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj": {
+              "projectPath": "C:\\Users\\santi\\Desktop\\examen onexa\\BibliotecaMutantes\\BibliotecaMutantes.csproj"
+            },
+            "C:\\Users\\santi\\Desktop\\examen onexa\\FormsMutantes\\FormsMutantes.csproj": {
+              "projectPath": "C:\\Users\\santi\\Desktop\\examen onexa\\FormsMutantes\\FormsMutantes.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
